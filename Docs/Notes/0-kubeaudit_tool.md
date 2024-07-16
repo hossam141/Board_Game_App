@@ -1,5 +1,4 @@
-**kubeaudit**
-`kubeaudit` is a tool designed to enhance the security of Kubernetes clusters by performing automated audits It checks for various security best practices and common vulnerabilities, providing detailed reports to help you identify and mitigate potential security issues.
+**kubeaudit** is a tool designed to enhance the security of Kubernetes clusters by performing automated audits It checks for various security best practices and common vulnerabilities, providing detailed reports to help you identify and mitigate potential security issues.
 
 **Key Features**
 1. **Security Best Practices**: Ensures adherence to Kubernetes security best practices.
